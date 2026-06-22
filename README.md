@@ -29,7 +29,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/oshan-rajakaruna-0a443421b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="oshanrajakaruna" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/oshan-rajakaruna-0a443421b" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="oshanrajakaruna" height="50" width="50" /></a>
   <img width="1" />
 </p>
 
