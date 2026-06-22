@@ -19,10 +19,7 @@
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-  
   </td>
 </tr>
 </table>
@@ -44,4 +41,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://buymeacoffee.com/oshanrajakaruna?status=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="https://buymeacoffee.com/oshanrajakaruna?status=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OshanRajakaruna" /></a></p>
