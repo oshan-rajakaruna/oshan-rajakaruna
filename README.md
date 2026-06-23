@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/oshan-rajakaruna-0a443421b" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="oshanrajakaruna" height="50" width="50" /></a>
   <img width="1" />
@@ -35,7 +35,7 @@
 
 ---
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
 
@@ -63,7 +63,7 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <h4>Frameworks & Libraries</h4>
 
@@ -84,6 +84,7 @@
 </a>
 
 </td>
+
 <td align="center" valign="top" width="50%">
 
 <h4>Web Technologies</h4>
@@ -95,7 +96,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>
 </a>
 
-<br><br>
+<br><br><br><br>
 
 <h4>Databases & Analytical Engines</h4>
 
