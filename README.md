@@ -100,6 +100,9 @@
 
 <h3>Databases & Analytical Engines</h3>
 
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="50" height="50"/>
+</a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/>
 </a>
