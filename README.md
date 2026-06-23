@@ -79,6 +79,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/>
 </a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="pyspark" width="50" height="50"/>
+</a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
 </a>
@@ -116,7 +119,7 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
 </a>
 <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
-  <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-stacked.svg" alt="duckdb" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/duckdb/FFF000" alt="duckdb" width="50" height="50"/>
 </a>
 <br><br>
 </td>
@@ -138,6 +141,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="50" height="50"/>
   </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="visualstudio" width="50" height="50"/>
+</a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" alt="pycharm" width="50" height="50"/>
   </a>
